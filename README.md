@@ -2,6 +2,8 @@
 
 A modern Discord bot built using **Discord.js v14**, featuring both **prefix** and **slash** commands, a clean handler system, and simple labeled code that makes the bot easy to edit, maintain, and distribute.
 
+This README was made using AI as i was too tired to make it lol
+
 ## 🚀 Features
 
 - Works with **Prefix & Slash commands**
