@@ -50,12 +50,12 @@ Edit **config.json**;
 }
 ```
 
-▶️ Starting the Bot
+## ▶️ Starting the Bot
 
 ```
 node index.js
 ```
-🧩 Commands
+## 🧩 Commands
 
 Moderation Commands
 
@@ -81,7 +81,7 @@ User Commands
 | `!updates`             | Prefix | Sends version update embed     |
 | `!rules`               | Prefix | Sends rules embed              |
 
-📝 Configuration Notes
+## 📝 Configuration Notes
 
 All command files include simple labels to make editing easy.
 
@@ -91,9 +91,9 @@ Commands are loaded from the /commands folder based on type (moderation/user).
 
 Events inside /events/client/ and /events/guild/ are auto-loaded.
 
-📌 Requirements
+## 📌 Requirements
 
-Node.js 18
+Node.js
 
 Discord bot token
 
@@ -101,12 +101,12 @@ Discord.js v14
 
 Correct permissions in your server
 
-👤 Credits
+## 👤 Credits
 
 Made by qdft
 Built for the DMON community
 
-⭐ Support This Project
+## ⭐ Support This Project
 
 ```
 If you like this bot, star the repository!
