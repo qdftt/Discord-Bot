@@ -2,45 +2,6 @@
 
 A modern Discord bot built using **Discord.js v14**, featuring both **prefix** and **slash** commands, a clean handler system, and simple labeled code that makes the bot easy to edit, maintain, and distribute.
 
----
-
-## 📁 Folder Structure
-
-Below is the real folder layout of this bot:
-
-DMON Discord Bot/
-│
-├── botconfig.json
-├── config.json
-├── index.js
-│
-├── commands/
-│ ├── moderation/
-│ │ ├── ban.js
-│ │ ├── kick.js
-│ │ ├── unban.js
-│ │ └── clear.js
-│ │
-│ └── user/
-│ ├── say.js
-│ ├── key.js
-│ ├── rules.js
-│ ├── post.js
-│ └── updates.js
-│
-├── events/
-│ ├── client/
-│ │ └── clientReady.js
-│ │
-│ └── guild/
-│ └── messageCreate.js
-│
-├── handlers/
-│ ├── command.js
-│ └── events.js
-│
-└── package.json
-
 ## 🚀 Features
 
 - Works with **Prefix & Slash commands**
