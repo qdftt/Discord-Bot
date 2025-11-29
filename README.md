@@ -25,7 +25,7 @@ A modern Discord bot built using **Discord.js v14**, featuring both **prefix** a
 
 ## 🛠️ Installation
 
-### 1. Install Node.js 18+
+### 1. Install Node.js
 Download from: https://nodejs.org/
 
 ### 2. Install dependencies
